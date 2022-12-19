@@ -1,0 +1,8 @@
+C:\Users\guiab\Documents\C#\Projeto_01 - Calculadora\Projeto Calculadora\Projeto Calculadora\bin\Debug\Projeto Calculadora.exe.config
+C:\Users\guiab\Documents\C#\Projeto_01 - Calculadora\Projeto Calculadora\Projeto Calculadora\bin\Debug\Projeto Calculadora.exe
+C:\Users\guiab\Documents\C#\Projeto_01 - Calculadora\Projeto Calculadora\Projeto Calculadora\bin\Debug\Projeto Calculadora.pdb
+C:\Users\guiab\Documents\C#\Projeto_01 - Calculadora\Projeto Calculadora\Projeto Calculadora\obj\Debug\Projeto Calculadora.csproj.AssemblyReference.cache
+C:\Users\guiab\Documents\C#\Projeto_01 - Calculadora\Projeto Calculadora\Projeto Calculadora\obj\Debug\Projeto Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\guiab\Documents\C#\Projeto_01 - Calculadora\Projeto Calculadora\Projeto Calculadora\obj\Debug\Projeto Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\guiab\Documents\C#\Projeto_01 - Calculadora\Projeto Calculadora\Projeto Calculadora\obj\Debug\Projeto Calculadora.exe
+C:\Users\guiab\Documents\C#\Projeto_01 - Calculadora\Projeto Calculadora\Projeto Calculadora\obj\Debug\Projeto Calculadora.pdb
